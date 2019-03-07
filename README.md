@@ -1,4 +1,4 @@
-# Recursive Permutations
+# Word Permutation Generator
 Solution of a permutation program written in JavaScript. Recursive implementation, adding a new possible character placement to add to the total permutations on each recursive call.
 
 ### Problem
